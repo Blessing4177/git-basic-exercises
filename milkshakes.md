@@ -1,0 +1,7 @@
+- Vanilla (The King of All Flavours)
+- Chocolate
+- Strawberry
+- Caramel Fudge
+- Chocolate Swirl
+- Dark Chocolate
+-Banana
