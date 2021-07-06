@@ -1,0 +1,268 @@
+    1  ssh-keygen -t ed25519 -C "<comment>"
+    2  cd Documents/Code
+    3  ls
+    4  cd ./
+    5  cd ../
+    6  ls
+    7  cd Documents/Code
+    8  ls
+    9  cd weatherProj/
+   10  ls
+   11  ls
+   12  touch index.html
+   13  touch app.js
+   14  code .
+   15  cd ../
+   16  cd Documents/Code
+   17  mkdir newsletterProj && cd newsletterProj
+   18  touch app.js
+   19  touch signup.html
+   20  touch success.html
+   21  touch failure.html
+   22  ls
+   23  npm init
+   24  ls
+   25  npm i express body-parser
+   26  code .
+   27  cd ~
+   28  touch .bash_profile
+   29  ls -a
+   30  vim .bash_profile
+   31  mongo --version
+   32  mongod
+   33  clear
+   34  mongod
+   35  clear
+   36  mongo
+   37  mongo
+   38  mongo
+   39  mongo
+   40  mongo
+   41  clear
+   42  ls
+   43  cd Documents/Learning
+   44  ls
+   45  cd FullStack/UdemyCourseJS/
+   46  ls
+   47  mkdir mongoDB
+   48  cd mongoDB/
+   49  ls
+   50  mkdir mongoDriver
+   51  cd mongoDriver/
+   52  mkdir fruitsProj
+   53  cd fruitsProj/
+   54  touch app.js
+   55  npm init
+   56  npm i mongodb
+   57  code app.js
+   58  code app.js
+   59  cd ../
+   60  cd ~
+   61  clear
+   62  mongo
+   63  clear
+   64  mongo
+   65  clear
+   66  ls
+   67  cd Documents/Learning/FullStack/UdemyCourseJS/
+   68  ls
+   69  cd mongoDB/
+   70  ls
+   71  cd mongoDriver/
+   72  ls
+   73  cd fruitsProj/
+   74  ls
+   75  node app.js
+   76  node app.js
+   77  mongo
+   78  mongo
+   79  clear
+   80  mongo
+   81  mongo
+   82  clear
+   83  mongod
+   84  clear
+   85  mongod
+   86  mongod
+   87  mongo
+   88  clear
+   89  mongo
+   90  mongo --version
+   91  mongo "mongodb+srv://cluster0.wpiq0.mongodb.net/myFirstDatabase" --username admin-blessing
+   92  mongo "mongodb+srv://cluster0.wpiq0.mongodb.net/myFirstDatabase" --username admin-blessing
+   93  clear
+   94  mongo "mongodb+srv://cluster0.wpiq0.mongodb.net/myFirstDatabase" --username admin-blessing
+   95  mongo "mongodb+srv://cluster0.wpiq0.mongodb.net/myFirstDatabase" --username admin-blessing
+   96  mongo "mongodb+srv://cluster0.wpiq0.mongodb.net/myFirstDatabase" --username admin-blessing
+   97  clear
+   98  mongo "mongodb+srv://cluster0.wpiq0.mongodb.net/myFirstDatabase" --username admin-blessing
+   99  mongo "mongodb+srv://cluster0.wpiq0.mongodb.net/myFirstDatabase" --username admin-blessing
+  100  mongo "mongodb+srv://cluster0.wpiq0.mongodb.net/myFirstDatabase" --username admin-blessing --password testing123
+  101  clear
+  102  mongo "mongodb+srv://cluster0.wpiq0.mongodb.net/myFirstDatabase" --username admin-blessing --password testing123
+  103  mongo --version
+  104  mongo "mongodb+srv://cluster0.wpiq0.mongodb.net/myFirstDatabase" --username admin-blessing --password testing123
+  105  mongo "mongodb+srv://cluster0.wpiq0.mongodb.net/myFirstDatabase" --username admin-blessing --password testing123
+  106  mongo
+  107  mongod
+  108  show dbs
+  109  show dbs
+  110  mongod
+  111  mongod
+  112  mongo
+  113  mongod
+  114  mongod
+  115  clear
+  116  mongod
+  117  mongod
+  118  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
+  119  nvm --version
+  120  nvm install 14.16.1
+  121  node --version
+  122  mongod
+  123  mongod
+  124  git --version
+  125  ls -lrh
+  126  pwd
+  127  clear
+  128  ls
+  129  ls /Videos
+  130  ls Videos
+  131  ls \
+  132  ls /
+  133  pwd
+  134  ls
+  135  cd Documents/Self
+  136  ls
+  137  cd UMUZI/
+  138  ls
+  139  mkdir Learning_Unix && cd Learning_Unix
+  140  ls
+  141   clear
+  142  mkdir Outer_directory && cd Outer_directory
+  143  mkdir Inner_directory && cd Inner_directory
+  144  mkdir outer/inner
+  145  mkdir -p outer/inner
+  146  ls
+  147  ls outer
+  148  cd `
+  149  cd ~
+  150  cd /Documents/Self/UMUZI/Learning_Unix/Outer_directory/Inner_directory
+  151  ls
+  152  cd Documents/Self/UMUZI/Learning_Unix/Outer_directory/Inner_directory
+  153  ccd ../
+  154  cd ..
+  155  cd ../
+  156  cd ./
+  157  cd ./
+  158  cd ../..
+  159  cd ../../Videos
+  160  cd
+  161  clear
+  162  ls
+  163  cd Documents/Self/UMUZI/Learning_Unix/Outer_directory/Inner_directory
+  164  l s..
+  165  ls ..
+  166  ls
+  167  ls ../..
+  168  ls ../../..
+  169  ls -l
+  170  cd /Documents
+  171  cd \Documents
+  172  cd ~/Documents
+  173  ls
+  174  ls -l
+  175  ls -R
+  176  clear
+  177  ls -l -t -r
+  178  ls -lh
+  179  clear
+  180  man ls
+  181  man
+  182  --help
+  183  help
+  184  help echo
+  185  clear
+  186  cd Self
+  187  ls
+  188  cd UMUZI/
+  189  ls
+  190  cd Learning_Unix/
+  191  ls
+  192  rmdir -R Outer_directory/
+  193  rmdir --help
+  194  rmdir Outer_directory/
+  195  rmdir -r Outer_directory/
+  196  rm - r Outer_directory/
+  197  rm -r Outer_directory/
+  198  ls
+  199  clear
+  200  cd ~
+  201  nano
+  202  clear
+  203  cd Documents/Self
+  204  ls
+  205  cd UMUZI/
+  206  ls
+  207  mkdir git-basic-exercises && cd git-basic-exercises
+  208  ls -a
+  209  git init
+  210  ls -a
+  211  git status
+  212  touch README.md
+  213  ls -a
+  214  git status
+  215  git log
+  216  git add .
+  217  git status
+  218  git restore --staged
+  219  git reset .
+  220  git status
+  221  git add .
+  222  git status
+  223  git commit -m "initial commit"
+  224  git log
+  225  q
+  226  clear
+  227  ls
+  228  git log
+  229  nano README.md
+  230  nano README.md
+  231  cat README.md 
+  232  git commit -m "second commit"
+  233  git add .
+  234  git commit -m "second commit"
+  235  git log
+  236  nano README.md
+  237  cat README.md 
+  238  git add .
+  239  git commit -m "third commit"
+  240  git log
+  241  git status
+  242  clear
+  243  git log
+  244  git checkout 3e3db0bbd5c2b0fdc88b438507442ee64cc5331d
+  245  cat README.md 
+  246  git checkout main
+  247  git checkout master
+  248  cat README.md 
+  249  clear
+  250  git branch
+  251  git branch milkshake-flavours
+  252  git branch
+  253  git checkout milkshake-flavours
+  254  git branch
+  255  nano milkshakes.md
+  256  ls
+  257  git status
+  258  git add .
+  259  git commit -m "added initial flavours"
+  260  git status
+  261  git log
+  262  git checkout master
+  263  git log
+  264  git branch history
+  265  git checkout history
+  266  git log
+  267  git branch
+  268  history > history.txt
