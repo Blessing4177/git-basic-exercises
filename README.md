@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 To nano, or not to nano? That is the question.
 
 To vim, or not to vim? That is another question.
@@ -9,4 +8,3 @@ Random acts of randomness
 
 
 booya
->>>>>>> history
